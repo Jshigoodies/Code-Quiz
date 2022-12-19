@@ -20,3 +20,8 @@ WHEN all questions are answered or the timer reaches 0
 THEN the game is over
 WHEN the game is over
 THEN I can save my initials and my score
+
+
+## Screenshots
+
+![front page](https://cdn.discordapp.com/attachments/1054217838501560350/1054217852531527810/image.png)
