@@ -25,3 +25,7 @@ THEN I can save my initials and my score
 ## Screenshots
 
 ![front page](https://cdn.discordapp.com/attachments/1054217838501560350/1054217852531527810/image.png)
+
+![questions](https://cdn.discordapp.com/attachments/1054217838501560350/1054218354270937199/image.png)
+
+![submit](https://cdn.discordapp.com/attachments/1054217838501560350/1054218488706781184/image.png)
